@@ -1,5 +1,6 @@
 # osu-parser
 A python based .osu file parser, writen with python 3.12
+Tested under OSU! & OSU! mania
 
 # Usage
 
