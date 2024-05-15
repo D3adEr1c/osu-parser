@@ -22,7 +22,10 @@ Or see `osu-lazer-export.py` - a script to get imported .osz beatmapfile from In
 
 
 # TODO
-Add support for hit objects decoding
-Add support for events decoding
-More method ( `get_info()`)
-Edit .osu file
+[ ] Add support for hit objects decoding
+
+[ ] Add support for events decoding
+
+[ ] More method ( `get_info()`)
+
+[ ] Edit .osu file
